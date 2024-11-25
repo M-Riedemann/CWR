@@ -13,7 +13,7 @@ int main(void) {
         double A = f * delta_y;
         sum += A;
     }
-    printf("Integralwert: %f\n", sum);
+    printf(" Integralwert: %f\n", sum);
 
     return EXIT_SUCCESS;
 }
